@@ -1,5 +1,0 @@
-requests
-pyautogui
-opencv-python
-pynput
-Pillow
